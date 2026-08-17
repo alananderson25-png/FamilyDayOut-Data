@@ -1,6 +1,7 @@
 [
   {
     "name": "Culzean Castle",
+    "imageURL": "https://res.cloudinary.com/pe4ib9mz/image/upload/f_auto,q_auto/Culzean_Castle_house_and_gardens_01",
     "priceInfo": "Family ticket £40.00",
     "price": 40.00,
     "openingHoursToday": "10:30–16:00",
