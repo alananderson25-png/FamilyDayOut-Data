@@ -1,9 +1,9 @@
 [
   {
     "name": "Culzean Castle",
-    "priceInfo": "ONLINE TEST PRICE",
-    "price": 99.99,
-    "openingHoursToday": "09:00–20:00",
+    "priceInfo": "Family ticket £40.00",
+    "price": 40.00,
+    "openingHoursToday": "10:30–16:00",
     "isOpenNow": true,
     "isClosedForSeason": false
   }
