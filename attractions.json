@@ -4,21 +4,21 @@
     "imageURL": "https://res.cloudinary.com/pe4ib9mz/image/upload/f_jpg,q_auto/Culzean_Castle_house_and_gardens_01",
     "priceInfo": "Family ticket £40.00",
     "price": 40.00,
-    "openingHoursToday": "10:30–16:00",
+    "openingHoursToday": "10:30-16:00",
     "isOpenNow": true,
     "isClosedForSeason": false
   },
   {
-  "name": "Landmark Forest Adventure Park",
+    "name": "Landmark Forest Adventure Park",
     "latitude": 57.27767,
-"longitude": -3.81343,
+    "longitude": -3.81343,
     "address": "Landmark Forest Adventure Park, Carrbridge, Inverness-shire, PH23 3AJ, Scotland",
-    "parkingInfo": "On-site parking available for visitors."
-  "imageURL": "https://res.cloudinary.com/pe4ib9mz/image/upload/f_auto,q_auto/landmark",
-  "priceInfo": "Family of 4 from £132.00 online",
-"price": 132.00,
-  "openingHoursToday": "Open daily",
-  "isOpenNow": true,
-  "isClosedForSeason": false
-}
+    "parkingInfo": "On-site parking available for visitors.",
+    "imageURL": "https://res.cloudinary.com/pe4ib9mz/image/upload/f_auto,q_auto/landmark",
+    "priceInfo": "Family of 4 from £132.00 online",
+    "price": 132.00,
+    "openingHoursToday": "Open daily",
+    "isOpenNow": true,
+    "isClosedForSeason": false
+  }
 ]
