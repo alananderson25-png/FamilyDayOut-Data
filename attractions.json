@@ -10,6 +10,8 @@
   },
   {
   "name": "Landmark Forest Adventure Park",
+    "latitude": 57.27767,
+"longitude": -3.81343,
   "imageURL": "https://res.cloudinary.com/pe4ib9mz/image/upload/f_auto,q_auto/landmark",
   "priceInfo": "Family of 4 from £132.00 online",
 "price": 132.00,
