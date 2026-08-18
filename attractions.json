@@ -11,8 +11,8 @@
   {
   "name": "Landmark Forest Adventure Park",
   "imageURL": "https://res.cloudinary.com/pe4ib9mz/image/upload/f_auto,q_auto/landmark",
-  "priceInfo": "Family ticket £0.00",
-  "price": 0.00,
+  "priceInfo": "Family of 4 from £132.00 online",
+"price": 132.00,
   "openingHoursToday": "Open daily",
   "isOpenNow": true,
   "isClosedForSeason": false
