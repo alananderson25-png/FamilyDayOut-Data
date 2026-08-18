@@ -7,5 +7,14 @@
     "openingHoursToday": "10:30–16:00",
     "isOpenNow": true,
     "isClosedForSeason": false
-  }
+  },
+  {
+  "name": "Landmark Forest Adventure Park",
+  "imageURL": "https://res.cloudinary.com/pe4ib9mz/image/upload/f_auto,q_auto/landmark",
+  "priceInfo": "Family ticket £0.00",
+  "price": 0.00,
+  "openingHoursToday": "Open daily",
+  "isOpenNow": true,
+  "isClosedForSeason": false
+}
 ]
