@@ -20,5 +20,16 @@
     "openingHoursToday": "Open daily",
     "isOpenNow": true,
     "isClosedForSeason": false
-  }
+  },
+  {
+  "name": "Aviemore Activity Centre",
+  "latitude": 57.1950,
+  "longitude": -3.8280,
+  "address": "Grampian Road, Aviemore, PH22, Scotland",
+  "parkingInfo": "Parking available nearby.",
+  "priceInfo": "Check website for current prices",
+  "openingHoursToday": "Check website for today's opening hours",
+  "isOpenNow": true,
+  "isClosedForSeason": false
+}
 ]
