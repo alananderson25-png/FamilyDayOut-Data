@@ -3696,9 +3696,9 @@
     "openingHoursToday": "Check attraction website for today's opening hours.",
     "isOpenNow": false,
     "isClosedForSeason": false
-  }
+},
 {
-    "name": "Highland Wildlife Park",
+  "name": "Highland Wildlife Park",
   "latitude": 57.1089,
   "longitude": -4.0526,
   "address": "Highland Wildlife Park, Kincraig, Kingussie, PH21 1NL, Scotland",
