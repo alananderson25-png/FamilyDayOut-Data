@@ -41,10 +41,10 @@
 "childMinimumAge": 4,
 "childMaximumAge": 15,
 "seniorPrice": 22.00,
-"familyPrice": 80.00,
-"familyAdults": 2,
-"familyChildren": 2,
-"familyPriceInfo": "Test family ticket",
+"familyPrice": null,
+"familyAdults": null,
+"familyChildren": null,
+"familyPriceInfo": null,
 "freeChildMaximumAge": 3
   },
   {
