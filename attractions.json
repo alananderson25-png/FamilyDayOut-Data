@@ -31,6 +31,7 @@
     "category": "Theme Park",
     "parkingInfo": "Check attraction website for current parking information.",
     "imageURL": "",
+    "pricingURL": "https://www.landmarkpark.co.uk/tickets-prices/",
     "priceInfo": "Current prices may vary. Check the attraction website before booking."
     "openingHoursToday": "Check attraction website for today's opening hours.",
     "isOpenNow": false,
