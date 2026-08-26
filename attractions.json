@@ -31,7 +31,7 @@
     "category": "Theme Park",
     "parkingInfo": "Check attraction website for current parking information.",
     "imageURL": "",
-    "priceInfo": "Check attraction website for current prices.",
+    "priceInfo": "Current prices may vary. Check the attraction website before booking."
     "openingHoursToday": "Check attraction website for today's opening hours.",
     "isOpenNow": false,
     "isClosedForSeason": false,
