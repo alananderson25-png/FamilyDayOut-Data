@@ -31,6 +31,8 @@
     "category": "Theme Park",
     "parkingInfo": "Check attraction website for current parking information.",
     "parkingURL": "https://www.landmarkpark.co.uk/planning-your-day/find-us/",
+    "onsiteFoodInfo": "Onsite options include Foresters Café, Pinewood Grill and the Snack Shack. Food choices and opening times vary seasonally, so check the website before visiting.",
+"onsiteFoodURL": "https://www.landmarkpark.co.uk/explore-the-park/food-drink/",
     "imageURL": "",
     "pricingURL": "https://www.landmarkpark.co.uk/ticket-prices/",
     "priceInfo": "Current prices may vary. Check the attraction website before booking.",
